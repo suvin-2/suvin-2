@@ -6,6 +6,8 @@
  
 ![suvin's github stats](https://github-readme-stats.vercel.app/api?username=suvin-2&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suvin-2&layout=compact)](https://github.com/suvin-2/github-readme-stats)
+
 
 
 # Tech Stack :muscle:
